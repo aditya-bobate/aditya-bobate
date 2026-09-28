@@ -205,6 +205,14 @@ A practical Go project exploring HTTP server fundamentals and backend developmen
 <h2><code>$ hedgehog --activity</code></h2>
 <p>────────────────────────────</p>
 
+<p align="center">
+  <img
+    src="./assets/activity/activity-dashboard.svg"
+    alt="GitHub Activity Matrix"
+    width="100%"
+  />
+</p>
+
 ```text
 ┌─ GITHUB ACTIVITY ──────────────────┐
 │                                    │
@@ -219,9 +227,6 @@ A practical Go project exploring HTTP server fundamentals and backend developmen
 <p align="center">
   <sub>Live activity tracked on the GitHub profile itself → <a href="https://github.com/aditya-bobate">github.com/aditya-bobate</a></sub>
 </p>
-
-<h2><code>$ hedgehog --stats</code></h2>
-<p>────────────────────────────</p>
 
 ```text
 ┌─ SNAPSHOT ─────────────────────────┐
