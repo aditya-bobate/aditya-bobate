@@ -34,16 +34,16 @@ Interests:
 ├─────────────────────────────┤
 │ User                        │
 │  aditya-bobate              │
-│                              │
+│                             │
 │ Education                   │
 │  B.Tech CSE                 │
-│                              │
+│                             │
 │ University                  │
 │  Manipal University Jaipur  │
-│                              │
+│                             │
 │ Focus                       │
 │  Cloud / Software / AI      │
-│                              │
+│                             │
 │ Status                      │
 │  Building & Learning        │
 └─────────────────────────────┘
@@ -209,9 +209,9 @@ A practical Go project exploring HTTP server fundamentals and backend developmen
 ┌─ GITHUB ACTIVITY ──────────────────┐
 │                                    │
 │  Repository work       ● active    │
-│  Open source            ● active   │
-│  Projects                ● building│
-│  Learning                 ● ongoing│
+│  Open source           ● active    │
+│  Projects              ● building  │
+│  Learning              ● ongoing   │
 │                                    │
 └────────────────────────────────────┘
 ```
@@ -264,11 +264,11 @@ adityabobate15@gmail.com
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  $ hedgehog --status                                          │
-│                                                                │
-│  ● ONLINE                                                     │
-│                                                                │
-│  Building systems. Learning continuously.                     │
+│  $ hedgehog --status                                         │
+│                                                              │
+│  ● ONLINE                                                    │
+│                                                              │
+│  Building systems. Learning continuously.                    │
 └──────────────────────────────────────────────────────────────┘
 ```
 
